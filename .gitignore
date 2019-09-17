@@ -1,3 +1,10 @@
+*/*/*/*/__pycache__
+*/*/*/*/*/__pycache__
+*/*/*/*/migrations
+
 02-WEB-APIs/venv/
 02-WEB-APIs/.vscode/settings.json
 .vscode/settings.json
+02-WEB-APIs/.vscode/launch.json
+02-WEB-APIs/First_API_Django/onlinestore/db.sqlite3
+02-WEB-APIs/uploads/*
